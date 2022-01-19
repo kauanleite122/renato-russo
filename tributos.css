@@ -1,0 +1,148 @@
+.caixa {
+  position: center;
+  width:950px;
+  margin:  auto;
+
+}
+
+.titulo{
+  font-size: 70px;
+  position: center;
+  width:950px;
+  margin: 1em auto;
+  border-radius: 20px;
+  text-align: center;
+ 
+  text-aling: center;
+}
+
+.copyright {
+  color: #FFFFFF;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
+
+header{
+  text-align: center;
+  background: url("cinza 2.jfif");
+  padding: 40px 0;
+
+}
+
+
+h1{
+  text-aling: center;
+  font-size: 75px;
+  text-shadow: 10px 10px 30px #000000;
+}
+
+p, li{
+  font-size: 40px;
+}
+
+h3{
+
+  font-size: 58px;  
+
+     }
+
+
+li,h1{
+
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  background: url("bg.jpg");
+  padding: 40px 0;
+
+}
+
+.degrade{
+
+  background: linear-gradient( white,gray,darkgray);
+}
+
+.adolecencia{
+
+  position: relative;
+  width:600px;
+  height: 600px;
+  margin: 3em 150px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px 20px  black;
+}
+
+
+.foto{
+
+  position: center;
+  width:950px;
+  margin: 3em auto;
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px 20px  black;
+  
+}
+
+.tipo{
+  position: center;
+  width:950px;
+  margin: 1em auto;
+  border-radius: 20px;
+  
+ 
+  }
+
+  .infancia{
+  position: center;
+  width:600px;
+  height: 600px;
+  margin: 2em 15%;
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px 20px  black;
+
+  }
+
+.grafico{
+
+border-radius: 10px;
+
+}
+
+nav a{
+
+    color: red;
+  text-decoration: none;
+
+
+}
+
+nav a:hover {
+
+  color: darkred;
+  text-decoration: underline;
+}
+
+.cabeçalho{
+
+  color:black;
+  font-size: 70px;
+  margin: 20px auto;
+  text-aling: center;
+ text-shadow: 10px 10px 30px #000000;
+
+
+}
+
+
+.video{
+  width: 980px;
+  margin: 1em auto;
+  border-radius: 30px;
+}
+
+.anderlaine{
+
+  text-decoration: underline;
+}
